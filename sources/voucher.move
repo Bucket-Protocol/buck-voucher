@@ -61,8 +61,8 @@ module buck_voucher::boucher {
         let values = vector[
             utf8(b"BUCK Voucher"),
             utf8(b"https://ipfs.io/ipfs/QmWDTiFbLwqX2ajAjDvqxhMhWGVjVbzi6mn2ufXVM8kM6i"),
-            utf8(b"Go https://app.bucketprotocol.io/voucher to get some $BUCK and enjoy the Bucket ecosystem!"),
-            utf8(b"https://app.bucketprotocol.io/voucher"),
+            utf8(b"Go https://app.bucketprotocol.io/basecamp to get some $BUCK and enjoy the Bucket ecosystem!"),
+            utf8(b"https://app.bucketprotocol.io/basecamp"),
             utf8(b"Bucket Protocol"),
         ];
 
